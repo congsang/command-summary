@@ -5,7 +5,7 @@
 | -------------- | ------------- | 
 | cat file(s)    | Display contents of file(s)| 
 | cd dir         | Change working directory to dir|
-| cp filel file2 | Copy file1 to file2|
+| cp file1 file2 | Copy file1 to file2|
 | cp file(s) dir | Copy file(s) into dir|
 | date           | Display the date and time|
 | echo args      | Display args|
